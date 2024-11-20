@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: " Improving Object Detection Performance on Hard to Detect Instances in DOTA"
+excerpt: "This project aimed to enhance the mean Average Precision (mAP) for deep learning object detection models specifically targeting "hard-to-detect" instances within the DOTA dataset. A comprehensive literature review was conducted to explore methods for improving small object detection and identifying suitable models. We selected the Yolov5 model and implemented dataset augmentation strategies such as oversampling and copy-pasting hard-to-detect instances to address the research question. For this I implemented state of the art research, dataset preprocessing pipelines, object detection evaluation algorithms, and post-processing techniques from scratch using PyTorch. The results demonstrate a significant improvement, with the mAP for hard-to-detect instances in DOTA increasing by up to 42.2%.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Hello there. 
