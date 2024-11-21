@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_image.jpeg"
   name             : "Said Harb"
   pronouns         : # example: "she/her"  
   bio              : "Masters in Computational Science at TU Braunschweig"
