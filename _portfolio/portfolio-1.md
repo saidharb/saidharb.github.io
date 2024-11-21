@@ -4,4 +4,4 @@ excerpt: "This project aimed to enhance the mean Average Precision (mAP) for dee
 collection: portfolio
 ---
 
-Hello there. 
+This work was done for the Deep Learning course taught by Dr. Pedro Diaz and Dr. Mehdi Maboudi at TU Braunschweig during the summer semester of 2024. You can find the link to the paper [here](http://academicpages.github.io/files/paper1.pdf) and the code in this [GitHub repository](https://github.com/Deep-Learning-IGP-TUBS-SoSe2024/Group_04).
