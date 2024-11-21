@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello there, I'm Said"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- 
 
-# Hello there, I'm Said
+👨‍💻 I am a final year graduate student in Computational Science in Engineering at TU Braunschweig.
 
-I study Computational Science at TU Braunschweig and have expertise in Computer Vision.
+🔍 Currently I am researching Deep Learning methods to reconstruct CAD models from Point Clouds for my Master's Thesis.
+
+📚 My research interests are Computer Vision and Natural Language Processing.
