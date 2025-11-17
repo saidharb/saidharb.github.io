@@ -7,7 +7,7 @@ excerpt: "Cracks are among the earliest indicators of deterioration in concrete 
 date: 2025-04-08
 venue: 'ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences'
 # slidesurl: 'http://saidharb.github.io/files/slides1.pdf'
-paperurl: 'https://isprs-annals.copernicus.org/articles/X-G-2025/341/2025/' #'http://saidharb.github.io/files/mt_crack_seg.pdf'
+paperurl: 'https://isprs-annals.copernicus.org/articles/X-G-2025/341/2025/' #'http://saidharb.github.io/files/isprs-annals-X-G-2025-341-2025.pdf'
 citation: 'Harb, S., Achanccaray Diaz, P., Maboudi, M., and Gerke, M.: Multi-temporal crack segmentation in concrete structures using deep learning approaches, ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., X-G-2025, 341–348, https://doi.org/10.5194/isprs-annals-X-G-2025-341-2025, 2025.</i>'
 ---
 
