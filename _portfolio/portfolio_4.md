@@ -4,4 +4,4 @@ excerpt: "Point cloud data from laser scanners can be acquired in large quantiti
 collection: portfolio
 ---
 
-This work was done for the Deep Learning course taught by Dr. Pedro Diaz and Dr. Mehdi Maboudi at TU Braunschweig during the summer semester of 2024. You can find the link to the paper [here](http://saidharb.github.io/files/improving_htd_DOTA.pdf) and the code in this [GitHub repository](https://github.com/saidharb/DOTA-Improve_hard_to_detect_instances_performance/tree/master).
+My master's thesis was done at IGP at TU Braunschweig in 2025 under the supervision of Dr. Maboudi and Prof. Gerke. You can find the paper [here](http://saidharb.github.io/files/improving_htd_DOTA.pdf) and the code in this [GitHub repository](https://github.com/saidharb/Point-Cloud-Reconstruction/tree/main).
